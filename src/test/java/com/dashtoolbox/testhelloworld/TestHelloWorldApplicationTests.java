@@ -11,7 +11,7 @@ class TestHelloWorldApplicationTests {
 
 	@Test
 	void contextLoads() {
-		assertEquals("5.1.10.RELEASE", SpringVersion.getVersion());
+		
 	}
 
 }
